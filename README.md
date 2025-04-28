@@ -1,1 +1,1 @@
-# Golden-Era-of-Video-Games
+In this project, I analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. I search for a golden age of video games by identifying release years that users and critics liked best, and I explore the business side of gaming by looking at game sales data.
